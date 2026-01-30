@@ -1,4 +1,4 @@
-# Hey 👋, I'm Daksha Mudumbai
+# Hey, I'm Daksha Mudumbai
 
 **Cybersecurity @ Northeastern University | ML Security | Data Science | GRC | Threat Detection**
 
