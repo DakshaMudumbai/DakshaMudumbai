@@ -3,7 +3,8 @@
 **Cybersecurity @ Northeastern University | ML Security | Data Science | GRC | Threat Detection**
 
 Cybersecurity major with CS & Data Science coursework. Building security tools and ML systems with Python, Rust, and Splunk. 
-Passionate about where machine learning meets defensive security!
+
+**Passionate about where machine learning meets defensive security!**
 
 
 ### Let's Connect
