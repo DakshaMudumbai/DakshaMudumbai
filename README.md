@@ -1,5 +1,4 @@
-# Hey 👋, I'm Daksha Mudumbai
-
-I'm a Cybersecurity student at Northeastern University who enjoys building data-driven and machine learning-powered solutions for the next generation of cybersecurity tools. I’m also enthusiastic about data science, risk management, compliance frameworks, and threat detection to shape stronger more resilient security systems.
-
----
+Hey 👋, I'm Daksha Mudumbai
+Cybersecurity @ Northeastern | ML Security | Threat Detection | GRC
+Building security tools with Python, Rust, and Splunk. Interested in where machine learning meets defensive security.
+Open to Summer/Fall 2026 intern/co-op opportunities!
