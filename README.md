@@ -1,6 +1,6 @@
 # Hey, I'm Daksha Mudumbai
 
-**Cybersecurity @ Northeastern University | ML Security | Data Science | GRC | Threat Detection**
+**Cybersecurity @ Northeastern University | Security Engineer | AI Red Teaming**
 
 Cybersecurity major with CS & Data Science coursework. Building security tools and ML systems with Python, Rust, and Splunk. 
 
