@@ -2,7 +2,7 @@
 
 **Cybersecurity @ Northeastern University | Security Engineer | AI Red Teaming**
 
-Cybersecurity major with CS & Data Science coursework. Building security tools and ML systems with Python, Rust, and Splunk. 
+Cybersecurity major building security tools and ML systems with Python, C, and Rust. 
 
 **Passionate about where machine learning meets cybersecurity!**
 
